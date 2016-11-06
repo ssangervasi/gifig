@@ -1,2 +1,11 @@
-# gifig
-GIF processing and intentional breaking in Python
+# Example Package
+
+## Dependencies
+
+## Installation
+`pip install example`
+
+## Usage
+```
+Nope
+```
